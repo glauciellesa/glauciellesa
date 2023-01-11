@@ -4,7 +4,7 @@
   <img src="/assets/images/glaucielleCard.jpeg" width="100%" alt="Glaucielle's card">
 </p>
 
-I'm **React developer** who is passionate about technology and self-taught. I started 2022 by taking a full JavaScript course and bootcamp. During these courses I learned front-end and back-end. Since then I have been investing to improve my skills. In 2023 I started focusing on React and to specialize I'm studying on sites like Udemy, linkedin learning and Scrimb as I'm determined to further develop my JavaScript and React skills to progress into a junior front-end developer role.
+I'm **React developer** who is passionate about technology and self-taught. I started 2022 by taking a full JavaScript course and bootcamp. In these courses I learned front-end and back-end. Since then, I have been spending my time to improve my skills. In 2023 I started focusing on React and I now I want specialize myself in this technology.
 
 # Technical Skills 💻:
 
