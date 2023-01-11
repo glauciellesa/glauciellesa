@@ -4,7 +4,7 @@
   <img src="/assets/images/glaucielleCard.jpeg" width="100%" alt="Glaucielle's card">
 </p>
 
-I'm **React developer** whos is passionate about about technology and self-taught. I started 2022 by doing a JavaScript course. During these course I learned front and back end tools like HTML, CSS, Node, Git, Github. Since then I have invested in classes on some other sites like Udemy, linkedin learning and Scrimb, as I am determined to further develop my JavaScript and React skills to progress to a junior front-end developer role.
+I'm **React developer** who is passionate about technology and self-taught. I started 2022 by taking a full JavaScript course and bootcamp. During these courses I learned front-end and back-end. Since then I have been investing to improve my skills. In 2023 I started focusing on React and to specialize I'm studying on sites like Udemy, linkedin learning and Scrimb as I'm determined to further develop my JavaScript and React skills to progress into a junior front-end developer role.
 
 # Technical Skills 💻:
 
@@ -16,11 +16,20 @@ I'm **React developer** whos is passionate about about technology and self-taugh
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=glauciellesa)](https://github.com/anuraghazra/github-readme-stats)
+# How to reach me 📫:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  <a href="https://www.linkedin.com/in/glauciellec/" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+  <a href="https://github.com/glauciellesa" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+  </a>
+</p>
