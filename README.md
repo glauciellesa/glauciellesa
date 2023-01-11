@@ -1,6 +1,4 @@
-Hi, I'm **Glaucielle** 👋🏼👩🏻‍💻
-
-<br/>
+# Hi, I'm **Glaucielle** 👋🏼👩🏻‍💻
 
 <p align="center">
   <img src="/assets/images/glaucielleCard.jpeg" width="100%" alt="Glaucielle's card">
