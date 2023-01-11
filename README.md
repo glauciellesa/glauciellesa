@@ -29,7 +29,8 @@ I'm **React developer** who is passionate about technology and self-taught. I st
   <a href="https://www.linkedin.com/in/glauciellec/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
-  <a href="https://github.com/glauciellesa" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+  <a href="https://glauciellesa.github.io/" rel="nofollow noreferrer">
+  <img src="/assets/images/cv.png" width="10px" alt="Potfolio">
+    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Portfólio
   </a>
 </p>
